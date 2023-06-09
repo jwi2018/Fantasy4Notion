@@ -1,0 +1,146 @@
+
+character cart2.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_arm
+  rotate: false
+  xy: 2, 3
+  size: 73, 66
+  orig: 79, 68
+  offset: 5, 1
+  index: -1
+character_basket
+  rotate: true
+  xy: 167, 83
+  size: 50, 58
+  orig: 52, 60
+  offset: 1, 1
+  index: -1
+character_body
+  rotate: false
+  xy: 98, 182
+  size: 94, 88
+  orig: 99, 90
+  offset: 4, 1
+  index: -1
+character_eye1
+  rotate: true
+  xy: 77, 33
+  size: 36, 19
+  orig: 39, 21
+  offset: 2, 1
+  index: -1
+character_eye2
+  rotate: true
+  xy: 256, 232
+  size: 38, 7
+  orig: 41, 10
+  offset: 1, 2
+  index: -1
+character_face1
+  rotate: false
+  xy: 167, 27
+  size: 58, 54
+  orig: 65, 56
+  offset: 3, 1
+  index: -1
+character_face2
+  rotate: false
+  xy: 167, 135
+  size: 81, 40
+  orig: 84, 42
+  offset: 1, 1
+  index: -1
+character_face3
+  rotate: true
+  xy: 227, 28
+  size: 38, 26
+  orig: 40, 28
+  offset: 1, 1
+  index: -1
+character_feet
+  rotate: false
+  xy: 2, 176
+  size: 94, 94
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+character_hat
+  rotate: true
+  xy: 194, 177
+  size: 93, 60
+  orig: 95, 64
+  offset: 1, 1
+  index: -1
+character_hat string1
+  rotate: false
+  xy: 227, 68
+  size: 24, 65
+  orig: 26, 69
+  offset: 1, 3
+  index: -1
+character_hat string2
+  rotate: true
+  xy: 113, 50
+  size: 44, 52
+  orig: 46, 54
+  offset: 1, 1
+  index: -1
+character_hat string3
+  rotate: true
+  xy: 77, 2
+  size: 10, 20
+  orig: 12, 22
+  offset: 1, 1
+  index: -1
+character_hat1
+  rotate: true
+  xy: 84, 82
+  size: 92, 27
+  orig: 94, 29
+  offset: 1, 1
+  index: -1
+character_nose
+  rotate: false
+  xy: 84, 71
+  size: 11, 9
+  orig: 13, 11
+  offset: 1, 1
+  index: -1
+character_sweat_1
+  rotate: true
+  xy: 98, 59
+  size: 21, 13
+  orig: 24, 15
+  offset: 1, 1
+  index: -1
+character_sweat_2
+  rotate: false
+  xy: 77, 14
+  size: 17, 17
+  orig: 19, 21
+  offset: 1, 2
+  index: -1
+character_sweat_3
+  rotate: false
+  xy: 98, 38
+  size: 11, 19
+  orig: 13, 21
+  offset: 1, 1
+  index: -1
+character_tail
+  rotate: true
+  xy: 113, 96
+  size: 84, 52
+  orig: 88, 55
+  offset: 3, 2
+  index: -1
+character_vest
+  rotate: true
+  xy: 2, 71
+  size: 103, 80
+  orig: 105, 82
+  offset: 1, 1
+  index: -1

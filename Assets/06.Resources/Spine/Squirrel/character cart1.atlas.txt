@@ -1,0 +1,118 @@
+
+character cart1.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_cart back wheel
+  rotate: true
+  xy: 149, 62
+  size: 64, 61
+  orig: 66, 63
+  offset: 1, 1
+  index: -1
+character_cart frame
+  rotate: false
+  xy: 2, 322
+  size: 319, 80
+  orig: 336, 82
+  offset: 1, 1
+  index: -1
+character_squirrel body
+  rotate: false
+  xy: 291, 215
+  size: 108, 94
+  orig: 110, 96
+  offset: 1, 1
+  index: -1
+character_squirrel cart and fruit
+  rotate: true
+  xy: 2, 60
+  size: 249, 145
+  orig: 251, 147
+  offset: 1, 1
+  index: -1
+character_squirrel cart front wheel
+  rotate: false
+  xy: 212, 24
+  size: 174, 102
+  orig: 176, 104
+  offset: 1, 1
+  index: -1
+character_squirrel eye1
+  rotate: true
+  xy: 141, 8
+  size: 50, 27
+  orig: 54, 29
+  offset: 2, 1
+  index: -1
+character_squirrel eye2
+  rotate: true
+  xy: 149, 233
+  size: 48, 11
+  orig: 51, 13
+  offset: 2, 1
+  index: -1
+character_squirrel face1
+  rotate: false
+  xy: 323, 311
+  size: 79, 91
+  orig: 81, 93
+  offset: 1, 1
+  index: -1
+character_squirrel face2
+  rotate: false
+  xy: 38, 8
+  size: 101, 50
+  orig: 103, 52
+  offset: 1, 1
+  index: -1
+character_squirrel face3
+  rotate: true
+  xy: 2, 6
+  size: 52, 34
+  orig: 54, 36
+  offset: 1, 1
+  index: -1
+character_squirrel left arm
+  rotate: false
+  xy: 170, 10
+  size: 22, 50
+  orig: 28, 52
+  offset: 4, 1
+  index: -1
+character_squirrel leg
+  rotate: false
+  xy: 170, 128
+  size: 117, 112
+  orig: 119, 114
+  offset: 1, 1
+  index: -1
+character_squirrel mouth
+  rotate: true
+  xy: 149, 283
+  size: 37, 19
+  orig: 39, 21
+  offset: 1, 1
+  index: -1
+character_squirrel right arm
+  rotate: false
+  xy: 194, 2
+  size: 70, 20
+  orig: 72, 25
+  offset: 1, 2
+  index: -1
+character_squirrel tail
+  rotate: true
+  xy: 170, 242
+  size: 78, 119
+  orig: 80, 122
+  offset: 1, 2
+  index: -1
+character_squirrel vest
+  rotate: false
+  xy: 289, 133
+  size: 105, 80
+  orig: 107, 85
+  offset: 1, 4
+  index: -1
