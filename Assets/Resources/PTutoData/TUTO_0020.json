@@ -1,0 +1,43 @@
+{
+  "pracTutoDatas": [
+    {
+      "condition": 1,
+      "explanation": "Tuto20_1",
+      "isDarkBackground": true,
+      "isShowCharacter": false,
+      "isShowHand": true,
+      "highlightPosition": [404, 405, 406, 407],
+      "swapDirection": 0,
+      "swapPosition": 407,
+      "charPosition": 1500232,
+      "charAnimTrigger": "None",
+      "isTextboxDown": true
+    },
+    {
+      "condition": 2,
+      "explanation": "Tuto20_2",
+      "isDarkBackground": true,
+      "isShowCharacter": false,
+      "isShowHand": false,
+      "highlightPosition": [ 208, 408, 608 ],
+      "swapDirection": 8,
+      "swapPosition": 505,
+      "charPosition": 1500232,
+      "charAnimTrigger": "None",
+      "isTextboxDown": true
+    },
+    {
+      "condition": 2,
+      "explanation": "Tuto20_3",
+      "isDarkBackground": true,
+      "isShowCharacter": false,
+      "isShowHand": true,
+      "highlightPosition": [307,406,507],
+      "swapDirection": 3,
+      "swapPosition": 406,
+      "charPosition": 1500232,
+      "charAnimTrigger": "None",
+      "isTextboxDown": true
+    }
+  ]
+}
