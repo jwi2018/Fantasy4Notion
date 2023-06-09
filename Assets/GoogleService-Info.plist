@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>271660552936-gm463g3rcnhe2c392tnora3eea0pffo4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.271660552936-gm463g3rcnhe2c392tnora3eea0pffo4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>271660552936-11fstb76800vcb2olsjiusfadsnul0m4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDR4HjGk0nnyOB0eqIU7Xqk6sW29_MAai4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>271660552936</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dodamgames.ios.fruitsgarden</string>
+	<key>PROJECT_ID</key>
+	<string>fruits-garden-match-3-puzz-728</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fruits-garden-match-3-puzz-728.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:271660552936:ios:59df77036e83841193af5d</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-3636561524673964~1643913338</string>
+</dict>
+</plist>
